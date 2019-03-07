@@ -16,6 +16,8 @@ public class login {
 		dr.get("https://www.google.com");
 		dr.navigate().to("https://www.facebook.com/");
 		System.out.println("This is updated");
+		System.out.println("This is updated 7mar");
+		
 		System.out.println("This is updated 1");
 		dr.navigate().back();
 		
